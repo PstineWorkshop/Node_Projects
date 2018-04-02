@@ -7,6 +7,15 @@
   <title>Document</title>
 </head>
 <body>
-?<?php echo'mama'; ?>
+<?php echo'mama';
+if(a==b){
+  for($index = 0;$index<10;$index++){
+    if(){
+
+    }
+  }
+}
+
+?>
 </body>
 </html>
