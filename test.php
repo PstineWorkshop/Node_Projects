@@ -8,13 +8,7 @@
 </head>
 <body>
 <?php echo'mama';
-if(a==b){
-  for($index = 0;$index<10;$index++){
-    if(){
 
-    }
-  }
-}
 
 ?>
 </body>
